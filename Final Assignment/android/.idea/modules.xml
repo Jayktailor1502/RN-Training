@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/birthdayFundApp.iml" filepath="$PROJECT_DIR$/.idea/modules/birthdayFundApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/birthdayFundApp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/birthdayFundApp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-160825740/birthdayFundApp.react-native-firebase_app.iml" filepath="$PROJECT_DIR$/.idea/modules/-160825740/birthdayFundApp.react-native-firebase_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1437555339/birthdayFundApp.react-native-firebase_auth.iml" filepath="$PROJECT_DIR$/.idea/modules/-1437555339/birthdayFundApp.react-native-firebase_auth.iml" />
+    </modules>
+  </component>
+</project>

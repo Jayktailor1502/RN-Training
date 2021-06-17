@@ -1,0 +1,6 @@
+module Pods_birthdayFundApp_birthdayFundAppTests {
+  umbrella header "Pods-birthdayFundApp-birthdayFundAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

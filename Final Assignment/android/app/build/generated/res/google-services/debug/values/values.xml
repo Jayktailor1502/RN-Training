@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">148465752787-ib67fd21316s6aukcej3fb79mc8ki7mk.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://birthdayapp-640f1-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">148465752787</string>
+    <string name="google_api_key" translatable="false">AIzaSyDw5y8UEI-LHYUiusdP6laP1zKfxuv9IYw</string>
+    <string name="google_app_id" translatable="false">1:148465752787:android:a8f9de335d6d73942c5226</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDw5y8UEI-LHYUiusdP6laP1zKfxuv9IYw</string>
+    <string name="google_storage_bucket" translatable="false">birthdayapp-640f1.appspot.com</string>
+    <string name="project_id" translatable="false">birthdayapp-640f1</string>
+</resources>
